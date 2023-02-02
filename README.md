@@ -1,6 +1,26 @@
+# Horiseon Refactor
+
+## Description
+
+A marketing agency wants their codebase to follow accessibility standards so that their site is optimized for search engines.
+
+- This solves the problem companies face trying to raise their visibility.
+- I discovered that by replacing these elements with semantic naming conventions we were able to implement DRY coding.
+
+## Preview
+
+![alt text](assets/images/Horiseon_SS.png)
+
+## Deployment
+
+[Horiseon Refactor](https://katemcro.github.io/challenge1/)
+
+
+## License
+
 MIT License
 
-Copyright (c) 2023 Kaitlyn Rogers
+Copyright (c) [2023] [Kaitlyn Rogers]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
